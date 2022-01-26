@@ -52,3 +52,16 @@ React Native Boilerplate using Typescript
 - [React Native Share](https://github.com/react-native-community/react-native-share)
 - [React Native Swiper](https://github.com/leecade/react-native-swiper)
 - [React Native Image Header ScrollView](https://github.com/bamlab/react-native-image-header-scroll-view)
+
+- [Reactotron](https://github.com/infinitered/reactotron)
+  -npm i --save-dev reactotron-react-native
+
+- [Reactotron Apisauce](https://github.com/infinitered/reactotron/blob/master/docs/plugin-apisauce.md)
+  -npm i --save-dev reactotron-apisauce
+
+- [Reactotron Redux](https://github.com/infinitered/reactotron/blob/master/docs/plugin-redux.md)
+  -npm install --save-dev reactotron-redux
+- [React Native Async Storage](https://react-native-async-storage.github.io/async-storage/docs/install/)
+  - npm install @react-native-async-storage/async-storage
+  - yarn add @react-native-async-storage/async-storage
+  - expo install @react-native-async-storage/async-storage
