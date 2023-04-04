@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "reactnativeTS.app"
-               BlueprintName = "reactnativeTS"
-               ReferencedContainer = "container:reactnativeTS.xcodeproj">
+               BuildableName = "reactnativets.app"
+               BlueprintName = "reactnativets"
+               ReferencedContainer = "container:reactnativets.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "reactnativeTSTests.xctest"
-               BlueprintName = "reactnativeTSTests"
-               ReferencedContainer = "container:reactnativeTS.xcodeproj">
+               BuildableName = "reactnativetsTests.xctest"
+               BlueprintName = "reactnativetsTests"
+               ReferencedContainer = "container:reactnativets.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactnativeTS.app"
-            BlueprintName = "reactnativeTS"
-            ReferencedContainer = "container:reactnativeTS.xcodeproj">
+            BuildableName = "reactnativets.app"
+            BlueprintName = "reactnativets"
+            ReferencedContainer = "container:reactnativets.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "reactnativeTS.app"
-            BlueprintName = "reactnativeTS"
-            ReferencedContainer = "container:reactnativeTS.xcodeproj">
+            BuildableName = "reactnativets.app"
+            BlueprintName = "reactnativets"
+            ReferencedContainer = "container:reactnativets.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
